@@ -1,31 +1,27 @@
 {
-  "_args": [
-    [
-      "angular-route@1.6.7",
-      "/Users/guillermoolivos/Documents/elnath/elnath-angular-routing"
-    ]
-  ],
-  "_from": "angular-route@1.6.7",
-  "_id": "angular-route@1.6.7",
+  "_from": "angular",
+  "_id": "angular@1.6.7",
   "_inBundle": false,
-  "_integrity": "sha1-Aglw2T2LLOTKav8ODXkiV5VDy88=",
-  "_location": "/angular-route",
+  "_integrity": "sha1-D4mDfa4XdrAcyx+iCW2w2Tc9mJc=",
+  "_location": "/angular",
   "_phantomChildren": {},
   "_requested": {
-    "type": "version",
+    "type": "tag",
     "registry": true,
-    "raw": "angular-route@1.6.7",
-    "name": "angular-route",
-    "escapedName": "angular-route",
-    "rawSpec": "1.6.7",
+    "raw": "angular",
+    "name": "angular",
+    "escapedName": "angular",
+    "rawSpec": "",
     "saveSpec": null,
-    "fetchSpec": "1.6.7"
+    "fetchSpec": "latest"
   },
   "_requiredBy": [
+    "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/angular-route/-/angular-route-1.6.7.tgz",
-  "_spec": "1.6.7",
+  "_resolved": "https://registry.npmjs.org/angular/-/angular-1.6.7.tgz",
+  "_shasum": "0f89837dae1776b01ccb1fa2096db0d9373d9897",
+  "_spec": "angular",
   "_where": "/Users/guillermoolivos/Documents/elnath/elnath-angular-routing",
   "author": {
     "name": "Angular Core Team",
@@ -34,27 +30,19 @@
   "bugs": {
     "url": "https://github.com/angular/angular.js/issues"
   },
-  "description": "AngularJS router module",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "HTML enhanced for web apps",
   "homepage": "http://angularjs.org",
-  "jspm": {
-    "shim": {
-      "angular-route": {
-        "deps": [
-          "angular"
-        ]
-      }
-    }
-  },
   "keywords": [
     "angular",
     "framework",
     "browser",
-    "router",
     "client-side"
   ],
   "license": "MIT",
   "main": "index.js",
-  "name": "angular-route",
+  "name": "angular",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/angular/angular.js.git"
